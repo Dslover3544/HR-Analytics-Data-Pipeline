@@ -1,0 +1,31 @@
+employee_id,first_name,last_name,department,job_title,hire_date,salary,location,gender,age,attrition
+1001,James,Walker,IT,Data Engineer,2021-03-15,92000,Dallas,Male,29,0
+1002,Sarah,Johnson,HR,HR Analyst,2022-05-21,68000,Dallas,Female,31,0
+1003,Michael,Brown,Finance,Financial Analyst,2020-08-10,81000,Plano,Male,35,1
+1004,Emily,Davis,Marketing,Marketing Specialist,2023-01-12,62000,Dallas,Female,27,0
+1005,David,Wilson,IT,Data Analyst,2021-09-01,76000,Frisco,Male,26,0
+1006,Ashley,Moore,HR,Recruiter,2022-11-07,64000,Dallas,Female,30,0
+1007,Christopher,Taylor,Operations,Operations Analyst,2019-06-18,73000,McKinney,Male,38,1
+1008,Jessica,Anderson,Finance,Accountant,2020-12-14,71000,Plano,Female,34,0
+1009,Matthew,Thomas,IT,Analytics Engineer,2021-04-26,97000,Dallas,Male,32,0
+1010,Amanda,Jackson,Marketing,Content Manager,2022-02-11,69000,Frisco,Female,29,0
+1011,Daniel,White,Operations,Business Analyst,2020-07-01,78000,Dallas,Male,36,1
+1012,Olivia,Harris,HR,HR Coordinator,2023-04-03,59000,McKinney,Female,25,0
+1013,Andrew,Martin,IT,Database Developer,2019-09-15,88000,Dallas,Male,40,0
+1014,Sophia,Thompson,Finance,Senior Accountant,2018-11-20,85000,Plano,Female,42,0
+1015,Joshua,Garcia,Operations,Process Analyst,2021-06-28,72000,Dallas,Male,33,0
+1016,Madison,Martinez,Marketing,Digital Analyst,2022-08-05,67000,Frisco,Female,28,1
+1017,Ethan,Robinson,IT,Data Engineer,2020-03-09,98000,Dallas,Male,37,0
+1018,Abigail,Clark,HR,Talent Specialist,2021-10-17,65000,Plano,Female,30,0
+1019,Alexander,Rodriguez,Finance,FP&A Analyst,2022-01-24,84000,Dallas,Male,31,0
+1020,Charlotte,Lewis,Operations,Operations Manager,2018-05-30,102000,McKinney,Female,45,0
+1021,Benjamin,Lee,IT,BI Developer,2021-12-13,91000,Dallas,Male,34,0
+1022,Evelyn,Walker,Marketing,Brand Specialist,2023-02-15,61000,Frisco,Female,26,0
+1023,Logan,Hall,Finance,Financial Analyst,2020-10-19,79000,Dallas,Male,35,1
+1024,Harper,Allen,HR,Recruiting Coordinator,2022-06-06,60000,Plano,Female,27,0
+1025,William,Young,IT,Data Architect,2019-04-22,120000,Dallas,Male,43,0
+1026,Ella,Hernandez,Operations,Supply Chain Analyst,2021-08-09,75000,McKinney,Female,32,0
+1027,Jacob,King,Marketing,Marketing Analyst,2020-09-14,66000,Dallas,Male,29,0
+1028,Grace,Wright,Finance,Accounting Manager,2018-07-11,98000,Plano,Female,41,0
+1029,Mason,Lopez,IT,Data Analyst,2023-03-27,70000,Frisco,Male,24,0
+1030,Chloe,Hill,HR,HR Business Partner,2019-02-18,93000,Dallas,Female,39,0
