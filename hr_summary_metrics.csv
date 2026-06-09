@@ -1,0 +1,6 @@
+department,headcount,avg_salary,attrition_count,attrition_rate
+Finance,6,83000.0,2,0.3333333333333333
+HR,6,68166.66666666667,0,0.0
+IT,8,91500.0,0,0.0
+Marketing,5,65000.0,1,0.2
+Operations,5,80000.0,2,0.4
